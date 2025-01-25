@@ -1,0 +1,1905 @@
+{
+  "leagues": [
+    {
+      "id": "28",
+      "uid": "s:20~l:28",
+      "name": "National Football League",
+      "abbreviation": "NFL",
+      "slug": "nfl",
+      "season": {
+        "year": 2024,
+        "startDate": "2024-08-01T07:00Z",
+        "endDate": "2025-02-15T07:59Z",
+        "displayName": "2024",
+        "type": {
+          "id": "3",
+          "type": 3,
+          "name": "Postseason",
+          "abbreviation": "post"
+        }
+      },
+      "logos": [
+        {
+          "href": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
+          "width": 500,
+          "height": 500,
+          "alt": "",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "lastUpdated": "2018-06-05T12:07Z"
+        }
+      ],
+      "calendarType": "list",
+      "calendarIsWhitelist": true,
+      "calendarStartDate": "2024-08-01T07:00Z",
+      "calendarEndDate": "2025-02-15T07:59Z",
+      "calendar": [
+        {
+          "label": "Preseason",
+          "value": "1",
+          "startDate": "2024-08-01T07:00Z",
+          "endDate": "2024-09-05T06:59Z",
+          "entries": [
+            {
+              "label": "Hall of Fame Weekend",
+              "alternateLabel": "HOF",
+              "detail": "Aug 1-7",
+              "value": "1",
+              "startDate": "2024-08-01T07:00Z",
+              "endDate": "2024-08-08T06:59Z"
+            },
+            {
+              "label": "Preseason Week 1",
+              "alternateLabel": "Pre Wk 1",
+              "detail": "Aug 8-14",
+              "value": "2",
+              "startDate": "2024-08-08T07:00Z",
+              "endDate": "2024-08-15T06:59Z"
+            },
+            {
+              "label": "Preseason Week 2",
+              "alternateLabel": "Pre Wk 2",
+              "detail": "Aug 15-21",
+              "value": "3",
+              "startDate": "2024-08-15T07:00Z",
+              "endDate": "2024-08-22T06:59Z"
+            },
+            {
+              "label": "Preseason Week 3",
+              "alternateLabel": "Pre Wk 3",
+              "detail": "Aug 22-Sep 4",
+              "value": "4",
+              "startDate": "2024-08-22T07:00Z",
+              "endDate": "2024-09-05T06:59Z"
+            }
+          ]
+        },
+        {
+          "label": "Regular Season",
+          "value": "2",
+          "startDate": "2024-09-05T07:00Z",
+          "endDate": "2025-01-09T07:59Z",
+          "entries": [
+            {
+              "label": "Week 1",
+              "alternateLabel": "Week 1",
+              "detail": "Sep 5-10",
+              "value": "1",
+              "startDate": "2024-09-05T07:00Z",
+              "endDate": "2024-09-11T06:59Z"
+            },
+            {
+              "label": "Week 2",
+              "alternateLabel": "Week 2",
+              "detail": "Sep 11-17",
+              "value": "2",
+              "startDate": "2024-09-11T07:00Z",
+              "endDate": "2024-09-18T06:59Z"
+            },
+            {
+              "label": "Week 3",
+              "alternateLabel": "Week 3",
+              "detail": "Sep 18-24",
+              "value": "3",
+              "startDate": "2024-09-18T07:00Z",
+              "endDate": "2024-09-25T06:59Z"
+            },
+            {
+              "label": "Week 4",
+              "alternateLabel": "Week 4",
+              "detail": "Sep 25-Oct 1",
+              "value": "4",
+              "startDate": "2024-09-25T07:00Z",
+              "endDate": "2024-10-02T06:59Z"
+            },
+            {
+              "label": "Week 5",
+              "alternateLabel": "Week 5",
+              "detail": "Oct 2-8",
+              "value": "5",
+              "startDate": "2024-10-02T07:00Z",
+              "endDate": "2024-10-09T06:59Z"
+            },
+            {
+              "label": "Week 6",
+              "alternateLabel": "Week 6",
+              "detail": "Oct 9-15",
+              "value": "6",
+              "startDate": "2024-10-09T07:00Z",
+              "endDate": "2024-10-16T06:59Z"
+            },
+            {
+              "label": "Week 7",
+              "alternateLabel": "Week 7",
+              "detail": "Oct 16-22",
+              "value": "7",
+              "startDate": "2024-10-16T07:00Z",
+              "endDate": "2024-10-23T06:59Z"
+            },
+            {
+              "label": "Week 8",
+              "alternateLabel": "Week 8",
+              "detail": "Oct 23-29",
+              "value": "8",
+              "startDate": "2024-10-23T07:00Z",
+              "endDate": "2024-10-30T06:59Z"
+            },
+            {
+              "label": "Week 9",
+              "alternateLabel": "Week 9",
+              "detail": "Oct 30-Nov 5",
+              "value": "9",
+              "startDate": "2024-10-30T07:00Z",
+              "endDate": "2024-11-06T07:59Z"
+            },
+            {
+              "label": "Week 10",
+              "alternateLabel": "Week 10",
+              "detail": "Nov 6-12",
+              "value": "10",
+              "startDate": "2024-11-06T08:00Z",
+              "endDate": "2024-11-13T07:59Z"
+            },
+            {
+              "label": "Week 11",
+              "alternateLabel": "Week 11",
+              "detail": "Nov 13-19",
+              "value": "11",
+              "startDate": "2024-11-13T08:00Z",
+              "endDate": "2024-11-20T07:59Z"
+            },
+            {
+              "label": "Week 12",
+              "alternateLabel": "Week 12",
+              "detail": "Nov 20-26",
+              "value": "12",
+              "startDate": "2024-11-20T08:00Z",
+              "endDate": "2024-11-27T07:59Z"
+            },
+            {
+              "label": "Week 13",
+              "alternateLabel": "Week 13",
+              "detail": "Nov 27-Dec 3",
+              "value": "13",
+              "startDate": "2024-11-27T08:00Z",
+              "endDate": "2024-12-04T07:59Z"
+            },
+            {
+              "label": "Week 14",
+              "alternateLabel": "Week 14",
+              "detail": "Dec 4-10",
+              "value": "14",
+              "startDate": "2024-12-04T08:00Z",
+              "endDate": "2024-12-11T07:59Z"
+            },
+            {
+              "label": "Week 15",
+              "alternateLabel": "Week 15",
+              "detail": "Dec 11-17",
+              "value": "15",
+              "startDate": "2024-12-11T08:00Z",
+              "endDate": "2024-12-18T07:59Z"
+            },
+            {
+              "label": "Week 16",
+              "alternateLabel": "Week 16",
+              "detail": "Dec 18-24",
+              "value": "16",
+              "startDate": "2024-12-18T08:00Z",
+              "endDate": "2024-12-25T07:59Z"
+            },
+            {
+              "label": "Week 17",
+              "alternateLabel": "Week 17",
+              "detail": "Dec 25-31",
+              "value": "17",
+              "startDate": "2024-12-25T08:00Z",
+              "endDate": "2025-01-01T07:59Z"
+            },
+            {
+              "label": "Week 18",
+              "alternateLabel": "Week 18",
+              "detail": "Jan 1-7",
+              "value": "18",
+              "startDate": "2025-01-01T08:00Z",
+              "endDate": "2025-01-08T07:59Z"
+            }
+          ]
+        },
+        {
+          "label": "Postseason",
+          "value": "3",
+          "startDate": "2025-01-08T08:00Z",
+          "endDate": "2025-02-15T07:59Z",
+          "entries": [
+            {
+              "label": "Wild Card",
+              "alternateLabel": "Wild Card",
+              "detail": "Jan 8-15",
+              "value": "1",
+              "startDate": "2025-01-08T08:00Z",
+              "endDate": "2025-01-16T07:59Z"
+            },
+            {
+              "label": "Divisional Round",
+              "alternateLabel": "Div Rd",
+              "detail": "Jan 16-22",
+              "value": "2",
+              "startDate": "2025-01-16T08:00Z",
+              "endDate": "2025-01-23T07:59Z"
+            },
+            {
+              "label": "Conference Championship",
+              "alternateLabel": "Conf Champ",
+              "detail": "Jan 23-29",
+              "value": "3",
+              "startDate": "2025-01-23T08:00Z",
+              "endDate": "2025-01-30T07:59Z"
+            },
+            {
+              "label": "Pro Bowl",
+              "alternateLabel": "Pro Bowl",
+              "detail": "Jan 30-Feb 5",
+              "value": "4",
+              "startDate": "2025-01-30T08:00Z",
+              "endDate": "2025-02-06T07:59Z"
+            },
+            {
+              "label": "Super Bowl",
+              "alternateLabel": "Super Bowl",
+              "detail": "Feb 6-13",
+              "value": "5",
+              "startDate": "2025-02-06T08:00Z",
+              "endDate": "2025-02-14T07:59Z"
+            }
+          ]
+        },
+        {
+          "label": "Off Season",
+          "value": "4",
+          "startDate": "2025-02-15T08:00Z",
+          "endDate": "2025-07-31T06:59Z",
+          "entries": [
+            {
+              "label": "Week 1",
+              "alternateLabel": "Week 1",
+              "detail": "Feb 14-Jul 31",
+              "value": "1",
+              "startDate": "2025-02-14T08:00Z",
+              "endDate": "2025-08-01T06:59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "season": {
+    "type": 3,
+    "year": 2024
+  },
+  "week": {
+    "number": 3
+  },
+  "events": [
+    {
+      "id": "401671888",
+      "uid": "s:20~l:28~e:401671888",
+      "date": "2025-01-26T20:00Z",
+      "name": "Washington Commanders at Philadelphia Eagles",
+      "shortName": "WSH @ PHI",
+      "season": {
+        "year": 2024,
+        "type": 3,
+        "slug": "post-season"
+      },
+      "week": {
+        "number": 3
+      },
+      "competitions": [
+        {
+          "id": "401671888",
+          "uid": "s:20~l:28~e:401671888~c:401671888",
+          "date": "2025-01-26T20:00Z",
+          "attendance": 0,
+          "type": {
+            "id": "1",
+            "abbreviation": "STD"
+          },
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "playByPlayAvailable": false,
+          "recent": false,
+          "venue": {
+            "id": "3806",
+            "fullName": "Lincoln Financial Field",
+            "address": {
+              "city": "Philadelphia",
+              "state": "PA"
+            },
+            "indoor": false
+          },
+          "competitors": [
+            {
+              "id": "21",
+              "uid": "s:20~l:28~t:21",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "21",
+                "uid": "s:20~l:28~t:21",
+                "location": "Philadelphia",
+                "name": "Eagles",
+                "abbreviation": "PHI",
+                "displayName": "Philadelphia Eagles",
+                "shortDisplayName": "Eagles",
+                "color": "06424d",
+                "alternateColor": "000000",
+                "isActive": true,
+                "venue": {
+                  "id": "3806"
+                },
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/_/name/phi/philadelphia-eagles",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/phi/philadelphia-eagles",
+                    "text": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/phi/philadelphia-eagles",
+                    "text": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/phi",
+                    "text": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
+              },
+              "score": "0",
+              "statistics": [],
+              "records": [
+                {
+                  "name": "overall",
+                  "abbreviation": "Any",
+                  "type": "total",
+                  "summary": "14-3"
+                },
+                {
+                  "name": "Home",
+                  "type": "home",
+                  "summary": "8-1"
+                },
+                {
+                  "name": "Road",
+                  "type": "road",
+                  "summary": "6-2"
+                }
+              ],
+              "leaders": [
+                {
+                  "name": "passingLeader",
+                  "displayName": "Passing Leader",
+                  "shortDisplayName": "PASS",
+                  "abbreviation": "PYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "248/361, 2903 YDS, 18 TD, 5 INT",
+                      "value": 2903.0,
+                      "athlete": {
+                        "id": "4040715",
+                        "fullName": "Jalen Hurts",
+                        "displayName": "Jalen Hurts",
+                        "shortName": "J. Hurts",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4040715/jalen-hurts"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4040715.png",
+                        "jersey": "1",
+                        "position": {
+                          "abbreviation": "QB"
+                        },
+                        "team": {
+                          "id": "21"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "21"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rushingLeader",
+                  "displayName": "Rushing Leader",
+                  "shortDisplayName": "RUSH",
+                  "abbreviation": "RYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "345 CAR, 2005 YDS, 13 TD",
+                      "value": 2005.0,
+                      "athlete": {
+                        "id": "3929630",
+                        "fullName": "Saquon Barkley",
+                        "displayName": "Saquon Barkley",
+                        "shortName": "S. Barkley",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3929630.png",
+                        "jersey": "26",
+                        "position": {
+                          "abbreviation": "RB"
+                        },
+                        "team": {
+                          "id": "21"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "21"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "receivingLeader",
+                  "displayName": "Receiving Leader",
+                  "shortDisplayName": "REC",
+                  "abbreviation": "RECYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "67 REC, 1079 YDS, 7 TD",
+                      "value": 1079.0,
+                      "athlete": {
+                        "id": "4047646",
+                        "fullName": "A.J. Brown",
+                        "displayName": "A.J. Brown",
+                        "shortName": "A.J. Brown",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4047646/aj-brown"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4047646.png",
+                        "jersey": "11",
+                        "position": {
+                          "abbreviation": "WR"
+                        },
+                        "team": {
+                          "id": "21"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "21"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "28",
+              "uid": "s:20~l:28~t:28",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "28",
+                "uid": "s:20~l:28~t:28",
+                "location": "Washington",
+                "name": "Commanders",
+                "abbreviation": "WSH",
+                "displayName": "Washington Commanders",
+                "shortDisplayName": "Commanders",
+                "color": "5a1414",
+                "alternateColor": "ffb612",
+                "isActive": true,
+                "venue": {
+                  "id": "3719"
+                },
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/wsh/washington-commanders",
+                    "text": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
+                    "text": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
+                    "text": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+              },
+              "score": "0",
+              "statistics": [],
+              "records": [
+                {
+                  "name": "overall",
+                  "abbreviation": "Any",
+                  "type": "total",
+                  "summary": "12-5"
+                },
+                {
+                  "name": "Home",
+                  "type": "home",
+                  "summary": "7-2"
+                },
+                {
+                  "name": "Road",
+                  "type": "road",
+                  "summary": "5-3"
+                }
+              ],
+              "leaders": [
+                {
+                  "name": "passingLeader",
+                  "displayName": "Passing Leader",
+                  "shortDisplayName": "PASS",
+                  "abbreviation": "PYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "331/480, 3568 YDS, 25 TD, 9 INT",
+                      "value": 3568.0,
+                      "athlete": {
+                        "id": "4426348",
+                        "fullName": "Jayden Daniels",
+                        "displayName": "Jayden Daniels",
+                        "shortName": "J. Daniels",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4426348/jayden-daniels"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+                        "jersey": "5",
+                        "position": {
+                          "abbreviation": "QB"
+                        },
+                        "team": {
+                          "id": "28"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "28"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rushingLeader",
+                  "displayName": "Rushing Leader",
+                  "shortDisplayName": "RUSH",
+                  "abbreviation": "RYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "148 CAR, 891 YDS, 6 TD",
+                      "value": 891.0,
+                      "athlete": {
+                        "id": "4426348",
+                        "fullName": "Jayden Daniels",
+                        "displayName": "Jayden Daniels",
+                        "shortName": "J. Daniels",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4426348/jayden-daniels"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+                        "jersey": "5",
+                        "position": {
+                          "abbreviation": "QB"
+                        },
+                        "team": {
+                          "id": "28"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "28"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "receivingLeader",
+                  "displayName": "Receiving Leader",
+                  "shortDisplayName": "REC",
+                  "abbreviation": "RECYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "82 REC, 1096 YDS, 13 TD",
+                      "value": 1096.0,
+                      "athlete": {
+                        "id": "3121422",
+                        "fullName": "Terry McLaurin",
+                        "displayName": "Terry McLaurin",
+                        "shortName": "T. McLaurin",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3121422/terry-mclaurin"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3121422.png",
+                        "jersey": "17",
+                        "position": {
+                          "abbreviation": "WR"
+                        },
+                        "team": {
+                          "id": "28"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "28"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "notes": [
+            {
+              "type": "event",
+              "headline": "NFC Championship"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0:00",
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Sun, January 26th at 3:00 PM EST",
+              "shortDetail": "1/26 - 3:00 PM EST"
+            },
+            "isTBDFlex": false
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "FOX"
+              ]
+            }
+          ],
+          "leaders": [
+            {
+              "name": "passingYards",
+              "displayName": "Passing Leader",
+              "shortDisplayName": "PASS",
+              "abbreviation": "PYDS",
+              "leaders": [
+                {
+                  "displayValue": "3568 YDS, 25 TD, 9 INT",
+                  "value": 3568.0,
+                  "athlete": {
+                    "id": "4426348",
+                    "fullName": "Jayden Daniels",
+                    "displayName": "Jayden Daniels",
+                    "shortName": "J. Daniels",
+                    "links": [
+                      {
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ],
+                        "href": "https://www.espn.com/nfl/player/_/id/4426348/jayden-daniels"
+                      }
+                    ],
+                    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+                    "jersey": "5",
+                    "position": {
+                      "abbreviation": "QB"
+                    },
+                    "team": {
+                      "id": "28"
+                    },
+                    "active": true
+                  },
+                  "team": {
+                    "id": "28"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "rushingYards",
+              "displayName": "Rushing Leader",
+              "shortDisplayName": "RUSH",
+              "abbreviation": "RYDS",
+              "leaders": [
+                {
+                  "displayValue": "345 CAR, 2005 YDS, 13 TD",
+                  "value": 2005.0,
+                  "athlete": {
+                    "id": "3929630",
+                    "fullName": "Saquon Barkley",
+                    "displayName": "Saquon Barkley",
+                    "shortName": "S. Barkley",
+                    "links": [
+                      {
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ],
+                        "href": "https://www.espn.com/nfl/player/_/id/3929630/saquon-barkley"
+                      }
+                    ],
+                    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3929630.png",
+                    "jersey": "26",
+                    "position": {
+                      "abbreviation": "RB"
+                    },
+                    "team": {
+                      "id": "21"
+                    },
+                    "active": true
+                  },
+                  "team": {
+                    "id": "21"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "receivingYards",
+              "displayName": "Receiving Leader",
+              "shortDisplayName": "REC",
+              "abbreviation": "RECYDS",
+              "leaders": [
+                {
+                  "displayValue": "82 REC, 1096 YDS, 13 TD",
+                  "value": 1096.0,
+                  "athlete": {
+                    "id": "3121422",
+                    "fullName": "Terry McLaurin",
+                    "displayName": "Terry McLaurin",
+                    "shortName": "T. McLaurin",
+                    "links": [
+                      {
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ],
+                        "href": "https://www.espn.com/nfl/player/_/id/3121422/terry-mclaurin"
+                      }
+                    ],
+                    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3121422.png",
+                    "jersey": "17",
+                    "position": {
+                      "abbreviation": "WR"
+                    },
+                    "team": {
+                      "id": "28"
+                    },
+                    "active": true
+                  },
+                  "team": {
+                    "id": "28"
+                  }
+                }
+              ]
+            }
+          ],
+          "format": {
+            "regulation": {
+              "periods": 4
+            }
+          },
+          "tickets": [
+            {
+              "summary": "Tickets as low as $653",
+              "numberAvailable": 2542,
+              "links": [
+                {
+                  "href": "https://www.vividseats.com/philadelphia-eagles-tickets-lincoln-financial-field-1-26-2025--sports-nfl-football/production/5345203?wsUser=717"
+                },
+                {
+                  "href": "https://www.vividseats.com/lincoln-financial-field-tickets/venue/2766?wsUser=717"
+                }
+              ]
+            }
+          ],
+          "startDate": "2025-01-26T20:00Z",
+          "broadcast": "FOX",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "FOX"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ],
+          "odds": [
+            {
+              "provider": {
+                "id": "58",
+                "name": "ESPN BET",
+                "priority": 1
+              },
+              "details": "PHI -6",
+              "overUnder": 47.5,
+              "spread": -6.0,
+              "awayTeamOdds": {
+                "favorite": false,
+                "underdog": true,
+                "team": {
+                  "id": "28",
+                  "uid": "s:20~l:28~t:28",
+                  "abbreviation": "WSH",
+                  "name": "Commanders",
+                  "displayName": "Washington Commanders",
+                  "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+                }
+              },
+              "homeTeamOdds": {
+                "favorite": true,
+                "underdog": false,
+                "team": {
+                  "id": "21",
+                  "uid": "s:20~l:28~t:21",
+                  "abbreviation": "PHI",
+                  "name": "Eagles",
+                  "displayName": "Philadelphia Eagles",
+                  "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
+                }
+              },
+              "open": {
+                "over": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "-110",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "-110"
+                },
+                "under": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "-110",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "-110"
+                },
+                "total": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "48.5",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "48.5"
+                }
+              },
+              "current": {
+                "over": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "-110",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "-110",
+                  "outcome": {
+                    "type": "pending"
+                  }
+                },
+                "under": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "-110",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "-110",
+                  "outcome": {
+                    "type": "pending"
+                  }
+                },
+                "total": {
+                  "alternateDisplayValue": "47.5",
+                  "american": "47.5"
+                }
+              }
+            }
+          ],
+          "highlights": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/game/_/gameId/401671888/commanders-eagles",
+          "text": "Gamecast",
+          "shortText": "Gamecast",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "weather": {
+        "displayValue": "Partly sunny",
+        "temperature": 38,
+        "highTemperature": 38,
+        "conditionId": "3",
+        "link": {
+          "language": "en-US",
+          "rel": [
+            "19103"
+          ],
+          "href": "http://www.accuweather.com/en/us/lincoln-financial-field-pa/19107/hourly-weather-forecast/43025_poi?day=2&hbhhour=15&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        }
+      },
+      "status": {
+        "clock": 0.0,
+        "displayClock": "0:00",
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Sun, January 26th at 3:00 PM EST",
+          "shortDetail": "1/26 - 3:00 PM EST"
+        }
+      }
+    },
+    {
+      "id": "401671887",
+      "uid": "s:20~l:28~e:401671887",
+      "date": "2025-01-26T23:30Z",
+      "name": "Buffalo Bills at Kansas City Chiefs",
+      "shortName": "BUF @ KC",
+      "season": {
+        "year": 2024,
+        "type": 3,
+        "slug": "post-season"
+      },
+      "week": {
+        "number": 3
+      },
+      "competitions": [
+        {
+          "id": "401671887",
+          "uid": "s:20~l:28~e:401671887~c:401671887",
+          "date": "2025-01-26T23:30Z",
+          "attendance": 0,
+          "type": {
+            "id": "1",
+            "abbreviation": "STD"
+          },
+          "timeValid": true,
+          "neutralSite": false,
+          "conferenceCompetition": false,
+          "playByPlayAvailable": false,
+          "recent": false,
+          "venue": {
+            "id": "3622",
+            "fullName": "GEHA Field at Arrowhead Stadium",
+            "address": {
+              "city": "Kansas City",
+              "state": "MO"
+            },
+            "indoor": false
+          },
+          "competitors": [
+            {
+              "id": "12",
+              "uid": "s:20~l:28~t:12",
+              "type": "team",
+              "order": 0,
+              "homeAway": "home",
+              "team": {
+                "id": "12",
+                "uid": "s:20~l:28~t:12",
+                "location": "Kansas City",
+                "name": "Chiefs",
+                "abbreviation": "KC",
+                "displayName": "Kansas City Chiefs",
+                "shortDisplayName": "Chiefs",
+                "color": "e31837",
+                "alternateColor": "ffb612",
+                "isActive": true,
+                "venue": {
+                  "id": "3622"
+                },
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/_/name/kc/kansas-city-chiefs",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/kc/kansas-city-chiefs",
+                    "text": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/kc/kansas-city-chiefs",
+                    "text": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/kc",
+                    "text": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
+              },
+              "score": "0",
+              "statistics": [],
+              "records": [
+                {
+                  "name": "overall",
+                  "abbreviation": "Any",
+                  "type": "total",
+                  "summary": "15-2"
+                },
+                {
+                  "name": "Home",
+                  "type": "home",
+                  "summary": "8-0"
+                },
+                {
+                  "name": "Road",
+                  "type": "road",
+                  "summary": "7-2"
+                }
+              ],
+              "leaders": [
+                {
+                  "name": "passingLeader",
+                  "displayName": "Passing Leader",
+                  "shortDisplayName": "PASS",
+                  "abbreviation": "PYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "392/581, 3928 YDS, 26 TD, 11 INT",
+                      "value": 3928.0,
+                      "athlete": {
+                        "id": "3139477",
+                        "fullName": "Patrick Mahomes",
+                        "displayName": "Patrick Mahomes",
+                        "shortName": "P. Mahomes",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3139477/patrick-mahomes"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png",
+                        "jersey": "15",
+                        "position": {
+                          "abbreviation": "QB"
+                        },
+                        "team": {
+                          "id": "12"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "12"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rushingLeader",
+                  "displayName": "Rushing Leader",
+                  "shortDisplayName": "RUSH",
+                  "abbreviation": "RYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "200 CAR, 728 YDS, 7 TD",
+                      "value": 728.0,
+                      "athlete": {
+                        "id": "3059915",
+                        "fullName": "Kareem Hunt",
+                        "displayName": "Kareem Hunt",
+                        "shortName": "K. Hunt",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3059915/kareem-hunt"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3059915.png",
+                        "jersey": "29",
+                        "position": {
+                          "abbreviation": "RB"
+                        },
+                        "team": {
+                          "id": "12"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "12"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "receivingLeader",
+                  "displayName": "Receiving Leader",
+                  "shortDisplayName": "REC",
+                  "abbreviation": "RECYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "97 REC, 823 YDS, 3 TD",
+                      "value": 823.0,
+                      "athlete": {
+                        "id": "15847",
+                        "fullName": "Travis Kelce",
+                        "displayName": "Travis Kelce",
+                        "shortName": "T. Kelce",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/15847/travis-kelce"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15847.png",
+                        "jersey": "87",
+                        "position": {
+                          "abbreviation": "TE"
+                        },
+                        "team": {
+                          "id": "12"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "12"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "uid": "s:20~l:28~t:2",
+              "type": "team",
+              "order": 1,
+              "homeAway": "away",
+              "team": {
+                "id": "2",
+                "uid": "s:20~l:28~t:2",
+                "location": "Buffalo",
+                "name": "Bills",
+                "abbreviation": "BUF",
+                "displayName": "Buffalo Bills",
+                "shortDisplayName": "Bills",
+                "color": "00338d",
+                "alternateColor": "d50a0a",
+                "isActive": true,
+                "venue": {
+                  "id": "3883"
+                },
+                "links": [
+                  {
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/_/name/buf/buffalo-bills",
+                    "text": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "roster",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/roster/_/name/buf/buffalo-bills",
+                    "text": "Roster",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "stats",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/stats/_/name/buf/buffalo-bills",
+                    "text": "Statistics",
+                    "isExternal": false,
+                    "isPremium": false
+                  },
+                  {
+                    "rel": [
+                      "schedule",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/nfl/team/schedule/_/name/buf",
+                    "text": "Schedule",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+              },
+              "score": "0",
+              "statistics": [],
+              "records": [
+                {
+                  "name": "overall",
+                  "abbreviation": "Any",
+                  "type": "total",
+                  "summary": "13-4"
+                },
+                {
+                  "name": "Home",
+                  "type": "home",
+                  "summary": "8-0"
+                },
+                {
+                  "name": "Road",
+                  "type": "road",
+                  "summary": "5-4"
+                }
+              ],
+              "leaders": [
+                {
+                  "name": "passingLeader",
+                  "displayName": "Passing Leader",
+                  "shortDisplayName": "PASS",
+                  "abbreviation": "PYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "307/483, 3731 YDS, 28 TD, 6 INT",
+                      "value": 3731.0,
+                      "athlete": {
+                        "id": "3918298",
+                        "fullName": "Josh Allen",
+                        "displayName": "Josh Allen",
+                        "shortName": "J. Allen",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
+                        "jersey": "17",
+                        "position": {
+                          "abbreviation": "QB"
+                        },
+                        "team": {
+                          "id": "2"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "2"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "rushingLeader",
+                  "displayName": "Rushing Leader",
+                  "shortDisplayName": "RUSH",
+                  "abbreviation": "RYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "207 CAR, 1009 YDS, 16 TD",
+                      "value": 1009.0,
+                      "athlete": {
+                        "id": "4379399",
+                        "fullName": "James Cook",
+                        "displayName": "James Cook",
+                        "shortName": "J. Cook",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png",
+                        "jersey": "4",
+                        "position": {
+                          "abbreviation": "RB"
+                        },
+                        "team": {
+                          "id": "2"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "2"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "name": "receivingLeader",
+                  "displayName": "Receiving Leader",
+                  "shortDisplayName": "REC",
+                  "abbreviation": "RECYDS",
+                  "leaders": [
+                    {
+                      "displayValue": "76 REC, 821 YDS, 4 TD",
+                      "value": 821.0,
+                      "athlete": {
+                        "id": "4373678",
+                        "fullName": "Khalil Shakir",
+                        "displayName": "Khalil Shakir",
+                        "shortName": "K. Shakir",
+                        "links": [
+                          {
+                            "rel": [
+                              "playercard",
+                              "desktop",
+                              "athlete"
+                            ],
+                            "href": "https://www.espn.com/nfl/player/_/id/4373678/khalil-shakir"
+                          }
+                        ],
+                        "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png",
+                        "jersey": "10",
+                        "position": {
+                          "abbreviation": "WR"
+                        },
+                        "team": {
+                          "id": "2"
+                        },
+                        "active": true
+                      },
+                      "team": {
+                        "id": "2"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "notes": [
+            {
+              "type": "event",
+              "headline": "AFC Championship"
+            }
+          ],
+          "status": {
+            "clock": 0.0,
+            "displayClock": "0:00",
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Sun, January 26th at 6:30 PM EST",
+              "shortDetail": "1/26 - 6:30 PM EST"
+            },
+            "isTBDFlex": false
+          },
+          "broadcasts": [
+            {
+              "market": "national",
+              "names": [
+                "CBS",
+                "Paramount+"
+              ]
+            }
+          ],
+          "leaders": [
+            {
+              "name": "passingYards",
+              "displayName": "Passing Leader",
+              "shortDisplayName": "PASS",
+              "abbreviation": "PYDS",
+              "leaders": [
+                {
+                  "displayValue": "3928 YDS, 26 TD, 11 INT",
+                  "value": 3928.0,
+                  "athlete": {
+                    "id": "3139477",
+                    "fullName": "Patrick Mahomes",
+                    "displayName": "Patrick Mahomes",
+                    "shortName": "P. Mahomes",
+                    "links": [
+                      {
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ],
+                        "href": "https://www.espn.com/nfl/player/_/id/3139477/patrick-mahomes"
+                      }
+                    ],
+                    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png",
+                    "jersey": "15",
+                    "position": {
+                      "abbreviation": "QB"
+                    },
+                    "team": {
+                      "id": "12"
+                    },
+                    "active": true
+                  },
+                  "team": {
+                    "id": "12"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "rushingYards",
+              "displayName": "Rushing Leader",
+              "shortDisplayName": "RUSH",
+              "abbreviation": "RYDS",
+              "leaders": [
+                {
+                  "displayValue": "207 CAR, 1009 YDS, 16 TD",
+                  "value": 1009.0,
+                  "athlete": {
+                    "id": "4379399",
+                    "fullName": "James Cook",
+                    "displayName": "James Cook",
+                    "shortName": "J. Cook",
+                    "links": [
+                      {
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ],
+                        "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook"
+                      }
+                    ],
+                    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png",
+                    "jersey": "4",
+                    "position": {
+                      "abbreviation": "RB"
+                    },
+                    "team": {
+                      "id": "2"
+                    },
+                    "active": true
+                  },
+                  "team": {
+                    "id": "2"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "receivingYards",
+              "displayName": "Receiving Leader",
+              "shortDisplayName": "REC",
+              "abbreviation": "RECYDS",
+              "leaders": [
+                {
+                  "displayValue": "97 REC, 823 YDS, 3 TD",
+                  "value": 823.0,
+                  "athlete": {
+                    "id": "15847",
+                    "fullName": "Travis Kelce",
+                    "displayName": "Travis Kelce",
+                    "shortName": "T. Kelce",
+                    "links": [
+                      {
+                        "rel": [
+                          "playercard",
+                          "desktop",
+                          "athlete"
+                        ],
+                        "href": "https://www.espn.com/nfl/player/_/id/15847/travis-kelce"
+                      }
+                    ],
+                    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15847.png",
+                    "jersey": "87",
+                    "position": {
+                      "abbreviation": "TE"
+                    },
+                    "team": {
+                      "id": "12"
+                    },
+                    "active": true
+                  },
+                  "team": {
+                    "id": "12"
+                  }
+                }
+              ]
+            }
+          ],
+          "format": {
+            "regulation": {
+              "periods": 4
+            }
+          },
+          "tickets": [
+            {
+              "summary": "Tickets as low as $206",
+              "numberAvailable": 6135,
+              "links": [
+                {
+                  "href": "https://www.vividseats.com/kansas-city-chiefs-tickets-geha-field-at-arrowhead-stadium-1-26-2025--sports-nfl-football/production/5329291?wsUser=717"
+                },
+                {
+                  "href": "https://www.vividseats.com/geha-field-at-arrowhead-stadium-tickets/venue/92?wsUser=717"
+                }
+              ]
+            }
+          ],
+          "startDate": "2025-01-26T23:30Z",
+          "broadcast": "CBS/Paramount+",
+          "geoBroadcasts": [
+            {
+              "type": {
+                "id": "1",
+                "shortName": "TV"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "CBS"
+              },
+              "lang": "en",
+              "region": "us"
+            },
+            {
+              "type": {
+                "id": "4",
+                "shortName": "Streaming"
+              },
+              "market": {
+                "id": "1",
+                "type": "National"
+              },
+              "media": {
+                "shortName": "Paramount+"
+              },
+              "lang": "en",
+              "region": "us"
+            }
+          ],
+          "odds": [
+            {
+              "provider": {
+                "id": "58",
+                "name": "ESPN BET",
+                "priority": 1
+              },
+              "details": "KC -2",
+              "overUnder": 48.5,
+              "spread": -2.0,
+              "awayTeamOdds": {
+                "favorite": false,
+                "underdog": true,
+                "team": {
+                  "id": "2",
+                  "uid": "s:20~l:28~t:2",
+                  "abbreviation": "BUF",
+                  "name": "Bills",
+                  "displayName": "Buffalo Bills",
+                  "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+                }
+              },
+              "homeTeamOdds": {
+                "favorite": true,
+                "underdog": false,
+                "team": {
+                  "id": "12",
+                  "uid": "s:20~l:28~t:12",
+                  "abbreviation": "KC",
+                  "name": "Chiefs",
+                  "displayName": "Kansas City Chiefs",
+                  "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
+                }
+              },
+              "open": {
+                "over": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "-110",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "-110"
+                },
+                "under": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "-110",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "-110"
+                },
+                "total": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "48.5",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "48.5"
+                }
+              },
+              "current": {
+                "over": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "-110",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "-110",
+                  "outcome": {
+                    "type": "pending"
+                  }
+                },
+                "under": {
+                  "value": 1.909,
+                  "displayValue": "10/11",
+                  "alternateDisplayValue": "-110",
+                  "decimal": 1.909,
+                  "fraction": "10/11",
+                  "american": "-110",
+                  "outcome": {
+                    "type": "pending"
+                  }
+                },
+                "total": {
+                  "alternateDisplayValue": "48.5",
+                  "american": "48.5"
+                }
+              }
+            }
+          ],
+          "highlights": []
+        }
+      ],
+      "links": [
+        {
+          "language": "en-US",
+          "rel": [
+            "summary",
+            "desktop",
+            "event"
+          ],
+          "href": "https://www.espn.com/nfl/game/_/gameId/401671887/bills-chiefs",
+          "text": "Gamecast",
+          "shortText": "Gamecast",
+          "isExternal": false,
+          "isPremium": false
+        }
+      ],
+      "weather": {
+        "displayValue": "Cloudy",
+        "temperature": 33,
+        "highTemperature": 33,
+        "conditionId": "7",
+        "link": {
+          "language": "en-US",
+          "rel": [
+            "64129"
+          ],
+          "href": "http://www.accuweather.com/en/us/geha-field-at-arrowhead-stadium-mo/64106/hourly-weather-forecast/43032_poi?day=2&hbhhour=17&lang=en-us",
+          "text": "Weather",
+          "shortText": "Weather",
+          "isExternal": true,
+          "isPremium": false
+        }
+      },
+      "status": {
+        "clock": 0.0,
+        "displayClock": "0:00",
+        "period": 0,
+        "type": {
+          "id": "1",
+          "name": "STATUS_SCHEDULED",
+          "state": "pre",
+          "completed": false,
+          "description": "Scheduled",
+          "detail": "Sun, January 26th at 6:30 PM EST",
+          "shortDetail": "1/26 - 6:30 PM EST"
+        }
+      }
+    }
+  ]
+}
